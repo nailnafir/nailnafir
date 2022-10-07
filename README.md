@@ -1,6 +1,6 @@
 ## About Me 👋
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/nailul-firdaus-0a2b72146/)](https://www.linkedin.com/in/nailul-firdaus-0a2b72146)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nail.nafir@gmail.com)](mailto:nail.nafir@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:nail.nafir@gmail.com)](mailto:nail.nafir@gmail.com) 
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nailnafir.github.io)](https://nailnafir.github.io) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nailnafir)](https://twitter.com/nailnafir) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/firdaus.nailul/)](https://instagram.com/firdaus.nailul) 
@@ -21,6 +21,7 @@
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 - 📱 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=46D1FD)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
