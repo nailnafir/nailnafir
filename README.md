@@ -40,14 +40,5 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 
 ## Contributions 🎯
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nailnafir&show_icons=true&locale=en&hide_border=true&theme=radical" width="33%">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nailnafir&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" width="27.5%">
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nailnafir&show_icons=true&locale=en&hide_border=true&theme=radical" width="33%">
-  <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=nailnafir&hide_border=true&bg_color=141321&color=D83A7C&line=A9FEF7&point=F7D747" width="96%">
-  <img src="https://raw.githubusercontent.com/nailnafir/nailnafir/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%">
-  <img src="https://raw.githubusercontent.com/nailnafir/nailnafir/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only" width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/nailnafir/nailnafir/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/nailnafir/nailnafir/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only" width="100%">
